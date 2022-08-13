@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Ramil Saavedra</h1>
+<h1 align="center">Hi 👋, I'm Ramil Saavedra</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 
 - 🌐 Visit my personal website [here](https://www.jetdev.info/)
+- 🔨 I`m currently building [Easy Campaign](https://github.com/ramilsaavedra/easy-campaign)
 - 🌱 I’m currently learning [NodeJS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/)
-- 📫 How to reach me: **ramilsmcl@gmail.com**
+- 📫 Say hi! **ramilsmcl@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramilsaavedra&langs_count=8&hide=shell&layout=compact&theme=github-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramilsaavedra&langs_count=8&hide=shell&layout=compact&theme=dark)
 
 ![profile views](https://komarev.com/ghpvc/?username=ramilsaavedra&style=for-the-badge&color=lightgrey)
 <!--
