@@ -3,7 +3,7 @@
 
 
 - 🌐 Visit my personal website [here](https://www.jetdev.info/)
-- 🔨 I`m currently building [Easy Campaign](https://github.com/ramilsaavedra/easy-campaign)
+- 🔨 I`m currently building [Easy Campaign](https://github.com/ramilsaavedra/easy-campaign) & [TipidShop](https://github.com/JetNicer/tipidshop)
 - 🌱 I’m currently learning [NodeJS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/)
 - 📫 Say hi! **rdsaavedra15@gmail.com**
 
