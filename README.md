@@ -1,14 +1,15 @@
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
 <p align="center">One moment please..</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!-- <h1 align="center">Hi 👋, I'm Ramil Saavedra</h1>
 <h3 align="center">Full Stack Web Developer</h3>
